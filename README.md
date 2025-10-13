@@ -44,4 +44,9 @@ It demonstrates a complete data science pipeline — from data preprocessing to 
 - Top 15 Most Important Features  
 
 ---
+## Target distribution
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/88237032-1b17-47fd-b242-cfb66c212ffe" />
+
+## Correlation heatmap (for top 10 features with highest variance)
+<img width="850" height="767" alt="image" src="https://github.com/user-attachments/assets/9a7a03e9-877c-4f48-942e-de810d1e332f" />
 
