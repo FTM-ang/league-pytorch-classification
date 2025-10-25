@@ -1,13 +1,13 @@
 # 🧠 League of Legends Win Prediction
 
-This project focuses on predicting match outcomes in **League of Legends** using **Logistic Regression implemented with PyTorch**.  
-It includes full data preprocessing, model training, evaluation, and feature importance analysis.
+**Course:** Introduction to Neural Networks and PyTorch — IBM / Coursera
+
+Project that implements a full ML pipeline: data preprocessing, EDA, model training, evaluation, and feature importance.
 
 ---
 
-## 📊 Project Overview
-The goal of this project is to analyze match statistics and build a machine learning model that predicts whether a team wins or loses.  
-It demonstrates a complete data science pipeline — from data preprocessing to model evaluation and interpretation.
+## 📊 Goal
+Predict whether a team wins (`win` = 1) or loses (`win` = 0) from match statistics.
 
 ---
 
@@ -33,8 +33,11 @@ It demonstrates a complete data science pipeline — from data preprocessing to 
 ---
 
 ## 📈 Results
-- The model achieves solid predictive performance with balance between precision and recall.  
-- Feature importance analysis highlights which in-game metrics have the strongest influence on win probability.  
+- Baseline logistic regression achieved near-random performance (accuracy ≈ 0.51, AUC ≈ 0.51).
+- In the future, I would use a neural network architecture with the Adam optimizer for this type of problem.
+- The feature importance analysis highlights which in-game metrics have the strongest influence on the win probability.
+
+هل تبغيني 
 
 ---
 
